@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+/* styling for the useroutput div */
+.container{
+  background-color: blue;
+  width: 15%;
+  height: 5rem;
+  border-radius: 12px;
+}
+/* styling of the text */
+.container h3{
+  color: cyan;
+  font-family: tahoma;
+  font-size:1rem;
+  padding: 1rem;
+
+}
+/* styling for the input  */
+.input input{
+  border-radius: 12px;
+  width: 20%;
+  height:2rem;
+  border: 2px solid blue;
+  margin-bottom:2rem;
+  margin-top: 1rem;
+
+}
